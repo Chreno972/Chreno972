@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://storyset.com/illustration/design-inspiration/amico#407BFFFF&hide=&hide=complete" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/design-inspiration-concept-illustration_114360-4191.jpg" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Christophe</h1>
 <h3 align="center">I'm a passionate JavaScript & Python Programmer.</h3>
