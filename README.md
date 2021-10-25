@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="file:///C:/Users/Christophe/Downloads/undraw_Designer_re_5v95.svg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/free-vector/design-inspiration-concept-illustration_114360-3992.jpg?size=338&ext=jpg" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Christophe</h1>
 <h3 align="center">I'm a passionate JavaScript & Python Programmer.</h3>
