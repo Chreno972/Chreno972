@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://bit.ly/3b3EzJi" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://picjumbo.com/wp-content/uploads/designer-holding-a-notebook-with-web-site-wireframes-layout-2210x1474.jpg" width="30px">, I'm Christophe</h1>
+<h1 align="center">Hi, I'm Christophe</h1>
 <h3 align="center">I'm a passionate JavaScript & Python Programmer.</h3>
 
 
