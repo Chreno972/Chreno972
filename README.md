@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://bit.ly/3jywotl" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Christophe</h1>
 <h3 align="center">I'm a passionate JavaScript & Python Programmer.</h3>
