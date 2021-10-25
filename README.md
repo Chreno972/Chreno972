@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chreno972&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Chris's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chreno972&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/Chreno972/github-readme-activity-graph) -->
 
 
 
