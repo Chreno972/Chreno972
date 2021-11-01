@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<!-- [![Chris's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chreno972&bg_color=fcfe9&color=e4c98&line=e4c98&point=03d3d&area=true&hide_border=true)](https://github.com/Chreno972/github-readme-activity-graph) -->
+<a href="https://github.com/Chreno972/github-readme-activity-graph"><img alt="Christophe Réno's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chreno972&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
