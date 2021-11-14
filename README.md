@@ -1,22 +1,15 @@
-<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Christophe</h1>
-<h3 align="center">I'm a passionate JavaScript & Python Programmer.</h3>
+<h3 align="center">A JavaScript & Python Programmer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently building JavaScript and Python applications to reach the next level
-
-- 🌱 I’m currently learning **Github, Algorithms and Data Structures**
+- 🔭 My passion: learn, build, solve, enhance, learn...
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://chrisdevfront.netlify.app/)**
-
-- 📫 How to reach me **renochristophe@gmail.com**
-
-- ⚡ Fun fact **I love to create beats with my computer and robotics.**
+- ⚡ **I create beats with my computer.**
 
 ## 🚀 Languages and Tools:
 
